@@ -6,5 +6,5 @@ This repository containes all of the notes taken by [Roman Medvedev](https://git
 
 ## Table of content
 
-* [Week 1](/vagrant/lighthouse-web-notes/Week_1)
-  * [day 1](/vagrant/lighthouse-web-notes/Week_1/Day_1)
+* [Week 1](Week_1)
+  * [day 1](Week_1/Day_1)
